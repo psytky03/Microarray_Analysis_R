@@ -1,4 +1,5 @@
-### R code for Microarray analysis 
+#### R code for Agilent single-color Microarray analysis 
+
 
 ##### Citations 
 
