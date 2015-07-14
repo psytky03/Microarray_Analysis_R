@@ -1,0 +1,7 @@
+SampleNumber	FileName	Condition
+1	GSM1402845_WT1.txt.gz	WT
+2	GSM1402846_WT2.txt.gz	WT
+3	GSM1402847_WT3.txt.gz	WT
+4	GSM1402848_pat1.txt.gz	PAT
+5	GSM1402849_pat2.txt.gz	PAT
+6	GSM1402850_pat3.txt.gz	PAT
